@@ -11,4 +11,5 @@ int main() {
     for (int i = 0; i < j; ++i) cout << arr[i] << " "; cout << endl;
     delete[] arr;
     return 0;
+    // tùng ngu 
 }
